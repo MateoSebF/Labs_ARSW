@@ -15,5 +15,19 @@
 5. Mongo atlas +  Java SpringBoot 3 (nosotros)
     - Que es mongo como creo la coleccion y la consumo
     - Crear ejemplo de consumo
-
 Bases de datos no relacionales, con mongo atlas, este se puede desplegar gratis y desaclopar del despliegue
+
+6. OWAS Zap + Pipeline de github que ejecute las pruebas automaticamente, escaner de top de vulnerabilidades mas comunes
+    - Genera report de que tan vulnerable es el sitio web 
+
+
+Arquitectura: organizacion fundamental en un sitema, en termino de sus componentes, la relacion entre estos y su entorno.
+Esta organizacion se enfoca en satisfacer requerimentos no funcionales o atributos de calidad
+
+El arquitecto se basa en la teconlogia para poder cumplir con atributos de calidad usando una arquitectura con patrones
+
+Atributo de calidad, nos permiten medir de manera tangible los resultados del proyecto
+
+Arquitectura requerimentos no funcionales
+Diseño requerimentos funcionales
+
