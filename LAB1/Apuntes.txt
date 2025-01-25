@@ -1,0 +1,19 @@
+1. Como funciona la arquitectura de microservicios y sistemas distribuidos
+    - Ejemplo con : Spring boot 3 Java
+
+2. Seguridad: Entraid para manejo de entidades -> Autenticacion con microsoft entraid (que es IDP)
+    - Ejemplo con : NSAL + Azure + (React)
+
+3. Sonar Cloud e integracion desde pipeline ( CI ) -> Pipeline reusable
+    - Estudiar sonar cloud
+
+4. Portabilidad : Docker, aplicacion para contendores
+    - Se debe desplegar el back con el front 
+    - Crear una imagen de java spring boot 3 
+    - Crear una imagen de react 
+
+5. Mongo atlas +  Java SpringBoot 3 (nosotros)
+    - Que es mongo como creo la coleccion y la consumo
+    - Crear ejemplo de consumo
+
+Bases de datos no relacionales, con mongo atlas, este se puede desplegar gratis y desaclopar del despliegue
