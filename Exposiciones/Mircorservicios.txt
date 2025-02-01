@@ -1,0 +1,51 @@
+Microservicios
+
+Es un enfoque de arquitectura donde se divide la aplicacion en distintos modulos, capa implementacion es independiente y s eocmunican entre si
+
+ -Se dividen entre modulos los distintos modulos
+ -Se comunican entre si mediante REST o RPC(HTTP2)
+ -Escalabilidad, al ser independientes los modulos es facilmente escalable y modificable
+ -Cada componente cumple su propia funcion
+ -Resilecia: los errores solo afectan a un microservicios
+
+Hay un API gateway que envia a el endpoint correspondiente y este es el unico punto de entrad a de la aplicacion
+
+Ventajas:
+    - La modularidad ayuda a que el servicio siga funcionando
+    - Capacidad de uso de distintos lenguajes
+    - Los fallos son mas tratables
+    - Se pueden usar funciones desarolladas por externos
+
+Desventajas:
+    - Se usan mas recursos
+    - Se complica la realizacion de pruebas
+
+
+Ejemplo:
+
+Enfoque monolitico: Restaurante con solo un mesero actua como chef delivery mesero y facturador
+
+Micorservicios: Cada tarea tiene un propio encargado, con sus funciones divididas, que componen un mismo servicio.
+se limita el dominio el cual el microservicio trabaja. Cocinero, Mesero, Cajero y Repartidor para cada tarea.
+
+Como implementarlos:
+1. Comenzar con un monolito, para identificar los componenetes que se pueden modular.
+2. Defiunir los equipos con sus respectivos dominios.
+3. Dividir el monolito para seguir la arquitectura de microservicio
+4. Testing y despliegue.
+
+Monolito:
+Todo en la misma aplicacion
+Poca escalibilidad(acoplado)
+Si una parte de la aplicacion falla puede afectar al resto
+Es mas dificil su mantenibilidad
+Es menos costoso de cuanto recursos
+
+teconlogias mas comunes para Microservicios
+Python: Backend Django + PostrgeSQL, FastAPI,TensorFlow, REST o gRPC
+Java: Backend Springboot + PostrgeSQL|MySQL, Angular o React, REST/gRPC
+
+Debe ser ligero y no hacer aplicaciones muy complejas
+
+Patron de eventos usasndo message brocker, socket io, etc.
+

@@ -1,0 +1,26 @@
+Documentacion api: Swagger
+Postman: testeo
+
+Parcial teorico el lunes y practico el sabado
+
+Spring concept: (planeacion del proyecto, azure github devops)
+1 Febrero - 8 Febrero
+10 Febrero - 15 Febrero
+17 Febrero - 22 Febrero
+24 Febrero (Parcial teorico) - 1 Marzo(Parcial practico 1hr y sustentacion de proyectos 2 hr)
+
+Release 1:
+Hacer desde el inicio el login de usuario (Usando microsoft Entraid)
+3 Marzo - 8 Marzo (Spring 1)
+10 Marzo - 15 Marzo (Spring 2)
+17 Marzo - 22 Marzo (Spring 3)
+25 Marzo - 29 Marzo (Spring 4)
+31 Marzo (Parcial teorico: hacer un caso de negocio) - 5 Abril (Sustentaciones) (Spring 5) -> Funcionando en tiempo real
+
+Release 2:
+7 Abril - 12 Abril (Spring 6)
+21 Abril - 26 Abril (Spring 7)
+28 Abril - 3 Mayo (Spring 8)
+5 Mayo - 10 Mayo (Spring 9)
+12 Mayo - 17 Mayo (Spring 10: Articulo con el proyecto finalizado y exposiciones) -> Afinado con atributos de calidad 
+
