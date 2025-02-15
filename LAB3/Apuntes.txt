@@ -1,0 +1,20 @@
+Compromiso: del equipo
+
+Nuestro equipo: con roles
+
+Contexto: Que vamos a hacer idea de proyecto compromiso herramientas y etc.
+
+Justificacion: 
+
+Diagrama BPM: del proeceso 
+
+Product architecture: Diagrama de compoenentes
+
+Relase plan: 
+    - Sprint X: Descripccion del sprint
+
+Aprendizajes y retos: retroalimentacion como equipo
+
+Tecnologias:
+
+Estrategias: Micorservicios(Diagrama) como interactua entraid

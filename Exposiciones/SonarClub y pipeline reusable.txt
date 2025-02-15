@@ -1,0 +1,24 @@
+Sonarclub
+
+Pipeline reusable
+es un flujo de trabajo automatizado de buenas parcticas
+
+- Analisis estatico en la nube
+- Deteccion de vulnerabilidades
+- Medicion de calidad de codigo
+
+
+Pipeline: es el flujo de trabajo
+Sonar cloud: Es el inspector de trabajo
+
+Sonar cloud: Se integra desde el inicio del repositorio analiza el codigo y genera informe de errores
+
+Pipleine: Definicion, publicacion, uso en proyectos
+
+Sonar Cloud y Sonar qube (Diferencias):
+    - Sonar cloud mas de los servicios de la nube y sonar cube servidores propios
+
+Pipeline resuable: sonar cloud e iniciar con github y creamos una organizacion donde tendremos los proyectos. 
+y seleccionamos el repo y vamos desactivar analisa autoatico y generamos un token, en secretos y variables definimos las variables de entorno en sonar cube tenemos el sonar key, y el el organization key
+
+Se crea el Pipleine

@@ -1,0 +1,30 @@
+Microsoft Entra ID
+
+
+Un IDP es un portero digital su trabajo es verificar y decidir a donde puedes entrar.
+
+Entra ID es el portero digital de microsoft, es un servicio de la la nube
+
+Microsoft Authenticarion library
+
+Funcionalidades
+1. Autenticacion Centralizada
+2. Gestion de usuarios y grupos
+3. Integracion con aplicaciones
+4. Seguridad avanzada
+5. Escalabilidad y disponibilidada
+6. Gobernanza de identidades
+
+Ventajas
+1. Simplificacion de la gestion de identidades
+2. 
+
+Implementacion paso a paso
+En azure entrar a microsoft entra identidades
+User: usuarios registrados
+Group: 
+
+
+JSONWebToken
+
+Crear cuenta de organizacion pra hacer el login seguro
